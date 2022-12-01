@@ -1,0 +1,6 @@
+# Folders
+.next/
+.yarn/
+build/
+node_modules/
+public/
